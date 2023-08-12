@@ -1,0 +1,112 @@
+nav {
+    background-color: red;
+    color: white;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16pt;
+    width: 100%;
+    position: sticky;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+    list-style-type: none;
+   
+}
+
+body {
+    margin: 0px;
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav a{
+    color:aliceblue;
+    text-decoration: none;
+    padding: 22px 16px;
+}
+
+.links1:hover{
+    background-color: aliceblue;
+    color: blue;
+}
+
+.footer {
+    background-color: red;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+table{
+    margin:auto;
+    padding: 10px;
+}
+
+li {
+    padding: 7px;
+    list-style-type: none;
+}
+
+td {
+    padding-right: 100px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.inline-card {
+    border: 1px solid black;
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.card-title {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+}
+
+.card-subtitle {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-text {
+    background-color: antiquewhite;
+}
+
+.card-btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-btn:hover{
+    background-color: brown;
+    color: black;
+}
+
+.btn-link {
+    color: black;
+}
